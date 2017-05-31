@@ -1,4 +1,4 @@
-[11:20:33] Using gulpfile D:\testing\aurelia-skeleton\gulpfile.js
-[11:20:33] Starting 'bump-version'...
-[11:20:34] Bumped 1.1.2 to 1.1.3 with type: patch
-[11:20:34] Finished 'bump-version' after 39 ms
+[12:05:22] Using gulpfile D:\testing\aurelia-skeleton\gulpfile.js
+[12:05:22] Starting 'bump-version'...
+[12:05:22] Bumped 1.1.3 to 1.1.4 with type: patch
+[12:05:22] Finished 'bump-version' after 27 ms
